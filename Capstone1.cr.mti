@@ -1,0 +1,385 @@
+C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/pc_reg.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/pc_reg.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pc_reg
+
+Top level modules:
+	pc_reg
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/lsu.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/lsu.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lsu
+-- Compiling module addr_dec
+-- Compiling module ld_mux
+-- Compiling module latch32_cp
+-- Compiling module reg32_cp
+-- Compiling module ld_sel_mux
+
+Top level modules:
+	lsu
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/outmem.v {1 {vlog -work work C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/outmem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module outmem
+
+Top level modules:
+	outmem
+
+} {} {}} E:/CAPSTONE1/control_unit.v {1 {vlog -work work E:/CAPSTONE1/control_unit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/pipeline.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/pipeline.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipeline
+
+Top level modules:
+	pipeline
+
+} {} {}} E:/CAPSTONE1/register_file.v {1 {vlog -work work E:/CAPSTONE1/register_file.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register_file
+
+Top level modules:
+	register_file
+
+} {} {}} E:/CAPSTONE1/MU_stage.v {1 {vlog -work work E:/CAPSTONE1/MU_stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MU_stage
+
+Top level modules:
+	MU_stage
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/reg_fetch_decode.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/reg_fetch_decode.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module reg_fetch_decode
+
+Top level modules:
+	reg_fetch_decode
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/reg_decode_execute.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/reg_decode_execute.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module reg_decode_execute
+
+Top level modules:
+	reg_decode_execute
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/regfile.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/regfile.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} E:/CAPSTONE1/ROB_mem.v {1 {vlog -work work E:/CAPSTONE1/ROB_mem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ROB_mem
+
+Top level modules:
+	ROB_mem
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/reg_memory_writeback.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/reg_memory_writeback.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module reg_memory_writeback
+
+Top level modules:
+	reg_memory_writeback
+
+} {} {}} E:/CAPSTONE1/WB_stage.v {1 {vlog -work work E:/CAPSTONE1/WB_stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module WB_stage
+
+Top level modules:
+	WB_stage
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/reg_dec.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/reg_dec.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module reg_dec
+
+Top level modules:
+	reg_dec
+
+} {} {}} E:/CAPSTONE1/ROB_stage.v {1 {vlog -work work E:/CAPSTONE1/ROB_stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ROB_stage
+
+Top level modules:
+	ROB_stage
+
+} {} {}} E:/CAPSTONE1/ID_stage.v {1 {vlog -work work E:/CAPSTONE1/ID_stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ID_stage
+
+Top level modules:
+	ID_stage
+
+} {} {}} E:/CAPSTONE1/IF_stage.v {1 {vlog -work work E:/CAPSTONE1/IF_stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IF_stage
+
+Top level modules:
+	IF_stage
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/forward2mux.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/forward2mux.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module forward2mux
+
+Top level modules:
+	forward2mux
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/alu.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/alu.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu
+-- Compiling module arith_right_shift
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/ctrl_unit.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/ctrl_unit.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ctrl_unit
+
+Top level modules:
+	ctrl_unit
+
+} {} {}} E:/CAPSTONE1/sign_extend.v {1 {vlog -work work E:/CAPSTONE1/sign_extend.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} E:/CAPSTONE1/BTB.v {1 {vlog -work work E:/CAPSTONE1/BTB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BTB
+
+Top level modules:
+	BTB
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/add4.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/add4.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module add4
+
+Top level modules:
+	add4
+
+} {} {}} E:/CAPSTONE1/mul_stage.v {1 {vlog -work work E:/CAPSTONE1/mul_stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mul_stage
+
+Top level modules:
+	mul_stage
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/op_b_mux.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/op_b_mux.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module op_b_mux
+
+Top level modules:
+	op_b_mux
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/instr_rom.v {1 {vlog -work work C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/instr_rom.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module instr_rom
+
+Top level modules:
+	instr_rom
+
+} {} {}} E:/CAPSTONE1/instr_mem.v {1 {vlog -work work E:/CAPSTONE1/instr_mem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module instr_mem
+
+Top level modules:
+	instr_mem
+
+} {} {}} E:/CAPSTONE1/mul_sub_unit.v {1 {vlog -work work E:/CAPSTONE1/mul_sub_unit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mul_sub_unit
+
+Top level modules:
+	mul_sub_unit
+
+} {} {}} E:/CAPSTONE1/multiply_unit.v {1 {vlog -work work E:/CAPSTONE1/multiply_unit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiply_unit
+
+Top level modules:
+	multiply_unit
+
+} {} {}} E:/CAPSTONE1/data_mem.v {1 {vlog -work work E:/CAPSTONE1/data_mem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/datamem.v {1 {vlog -work work C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/datamem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module datamem
+
+Top level modules:
+	datamem
+
+} {} {}} E:/CAPSTONE1/SQ_mem.v {1 {vlog -work work E:/CAPSTONE1/SQ_mem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SQ_mem
+
+Top level modules:
+	SQ_mem
+
+} {} {}} E:/CAPSTONE1/main_decoder.v {1 {vlog -work work E:/CAPSTONE1/main_decoder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module main_decoder
+
+Top level modules:
+	main_decoder
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/forward1mux.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/forward1mux.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module forward1mux
+
+Top level modules:
+	forward1mux
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/op_a_mux.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/op_a_mux.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module op_a_mux
+
+Top level modules:
+	op_a_mux
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/hazard_unit.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/hazard_unit.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module hazard_unit
+
+Top level modules:
+	hazard_unit
+
+} {} {}} E:/CAPSTONE1/ALU_stage.v {1 {vlog -work work E:/CAPSTONE1/ALU_stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_stage
+
+Top level modules:
+	ALU_stage
+
+} {} {}} E:/CAPSTONE1/RISC_tb.v {1 {vlog -work work E:/CAPSTONE1/RISC_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RISC_tb
+
+Top level modules:
+	RISC_tb
+
+} {} {}} E:/CAPSTONE1/TOP_MODULE.v {1 {vlog -work work E:/CAPSTONE1/TOP_MODULE.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TOP_MODULE
+
+Top level modules:
+	TOP_MODULE
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/immGen.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/immGen.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module immGen
+
+Top level modules:
+	immGen
+
+} {} {}} E:/CAPSTONE1/hazard_unit.v {1 {vlog -work work E:/CAPSTONE1/hazard_unit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module hazard_unit
+
+Top level modules:
+	hazard_unit
+
+} {} {}} E:/CAPSTONE1/MEM_stage.v {1 {vlog -work work E:/CAPSTONE1/MEM_stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM_stage
+
+Top level modules:
+	MEM_stage
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/reg_execute_memory.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/reg_execute_memory.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module reg_execute_memory
+
+Top level modules:
+	reg_execute_memory
+
+} {} {}} E:/CAPSTONE1/BHB.v {1 {vlog -work work E:/CAPSTONE1/BHB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BHB
+
+Top level modules:
+	BHB
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/rs1d_mux.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/rs1d_mux.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module rs1d_mux
+
+Top level modules:
+	rs1d_mux
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/inmem.v {1 {vlog -work work C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/inmem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module inmem
+
+Top level modules:
+	inmem
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/rs2d_mux.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/rs2d_mux.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module rs2d_mux
+
+Top level modules:
+	rs2d_mux
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/br_mux.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/br_mux.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module br_mux
+
+Top level modules:
+	br_mux
+
+} {} {}} E:/CAPSTONE1/ALU.v {1 {vlog -work work E:/CAPSTONE1/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/tb/pipeline_tb.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/tb/pipeline_tb.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipeline_tb
+
+Top level modules:
+	pipeline_tb
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/wb_mux.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/wb_mux.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module wb_mux
+
+Top level modules:
+	wb_mux
+
+} {} {}} C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/brcomp.sv {1 {vlog -work work -sv C:/Users/user/OneDrive/Desktop/CAPSTONE1/src/brcomp.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module brcomp
+
+Top level modules:
+	brcomp
+
+} {} {}} E:/CAPSTONE1/SQ_stage.v {1 {vlog -work work E:/CAPSTONE1/SQ_stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SQ_stage
+
+Top level modules:
+	SQ_stage
+
+} {} {}} E:/CAPSTONE1/ALU_decoder.v {1 {vlog -work work E:/CAPSTONE1/ALU_decoder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_decoder
+
+Top level modules:
+	ALU_decoder
+
+} {} {}}
